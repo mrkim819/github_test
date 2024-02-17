@@ -1,4 +1,5 @@
 test by mrkim
+2
 first revision
 What a difficult and confusing way to learn a git
 and python also,
