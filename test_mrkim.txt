@@ -1,3 +1,6 @@
 test by mrkim
 first revision
+What a difficult and confusing way to learn a git
+and python also,
+further understanding markdown too!!
 
