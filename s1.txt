@@ -1,1 +1,2 @@
 git stash 실습해보자 첫번째파일
+sub branch에서 수정작업
