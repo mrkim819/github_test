@@ -8,4 +8,4 @@ def sum(a,b):
 
 a = 3
 b = 5
-print (sum(a,b))
+print ("a 와 b의 합은 : ",sum(a,b), "입니다.")
