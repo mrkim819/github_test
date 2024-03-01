@@ -1,3 +1,4 @@
 git stash 실습 두번째 파일
 이것도 sub 브랜치에서 수정
 이것도 VSC sub에서 수정 추가
+s2도 VSC sub에서 수정

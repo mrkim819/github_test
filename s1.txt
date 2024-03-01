@@ -2,3 +2,4 @@ git stash 실습해보자 첫번째파일
 sub branch에서 수정작업
 VSC sub에서 수정 작업 합니다
 VSC sub로 s2 커밋한 다음에 다시 s1 수정
+자 다시 한번 VSC sub에서 s1 수정
