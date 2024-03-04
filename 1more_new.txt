@@ -1,2 +1,3 @@
 new file
 sub브랜치에서 만든 새 파일
+me는 수정하지 않았는데 master에서 수정
